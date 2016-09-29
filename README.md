@@ -1,4 +1,5 @@
 # Go-Tutorial
-Goをいろいろためしてみる
+ここを一通りやってみる
 
-test
+はじめてのGo言語 - はじめてのGo言語
+http://cuto.unirita.co.jp/gostudy/
